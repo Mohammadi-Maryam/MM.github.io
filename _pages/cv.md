@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<p> Coming soon....</p>
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
