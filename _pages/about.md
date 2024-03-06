@@ -1,11 +1,10 @@
 ---
-permalink: /about/
-title: "About me"
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /about/
   - /about.html
 ---
 
-<p> Coming soon.... </p>
-<p> ... </p>
+coming soon....
