@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "I am a linguist :)"
+  bio              : "... a linguist from Iran :)"
   location         : "Konstanz"
-  employer         : "Konstanz University"
+  employer         : "University of Konstanz "
   uri              : # URL
   email            : "maryam.mohammadi@uni-konstanz.de" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  researchgate     : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=x20ent8AAAAJ&hl=en"
+  researchgate     :  "https://www.researchgate.net/profile/Maryam-Mohammadi-41"
   #arxiv            : # URL - Update with the correct link to your profile
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
