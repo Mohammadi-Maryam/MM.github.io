@@ -12,8 +12,8 @@ title                    : "Maryam Mohammadi"
 title_separator          : "-"
 name                     : &name "Maryam"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/mohammadi-maryam" # the subpath of your site, e.g. "/blog"
+url                      : https://mohammadi-maryam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohammadi-maryam/mohammadi-maryam.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
